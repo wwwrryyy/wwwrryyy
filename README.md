@@ -3,8 +3,7 @@
 
   <p align="center">
     <a href="https://github.com/wwwrryyy"><img src="https://img.shields.io/badge/GitHub-@wwwrryyy-0055A5?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:shawnsc76@gmail.com"><img src="https://img.shields.io/badge/Email-shawnsc76%40gmail.com-C8102E?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Philosophy-Pur%20Sang-0B0E14?style=flat-square&logoColor=white" alt="Pur Sang" />
+    <a href="mailto:shawnsc76@gmail.com"><img src="https://img.shields.io/badge/Email-shawnsc76%40gmail.com-C8102E?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </p>
 </div>
 
