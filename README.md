@@ -1,10 +1,5 @@
 <div align="center">
-  <h1>SHAWN SHAIBU CHERIAN</h1>
-  <p><strong>Edge AI • Autonomous Perception • High-Performance Systems</strong></p>
-
-  <a href="mailto:shawnsc76@gmail.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1200&color=0077FF&background=00000000&center=true&vCenter=true&multiline=true&width=850&height=110&lines=Autonomous+Perception+%26+Adverse+Weather+Vision+(ISO+26262);Edge+Deep+Learning+%26+Zero-Copy+C%2B%2B+Acceleration+on+Jetson;Quantitative+Alpha+Engines+%26+Point-in-Time+Risk+Architecture" alt="Typing SVG" />
-  </a>
+  <img src="./assets/header.svg" alt="SHAWN SHAIBU CHERIAN • Edge AI & Autonomous Perception" width="100%" />
 
   <p align="center">
     <a href="https://github.com/wwwrryyy"><img src="https://img.shields.io/badge/GitHub-@wwwrryyy-0055A5?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
