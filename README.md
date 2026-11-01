@@ -10,24 +10,6 @@
 
 ---
 
-### Engineering Philosophy
-
-> *"If comparable, it is no longer Bugatti."* — **Ettore Bugatti**  
-> Pure-blood engineering (*Pur Sang*): deterministic latency budgets, zero abstraction bloat, hardware-calibrated acceleration, and uncompromising technical precision.
-
----
-
-### Core Disciplines & Telemetry
-
-```
-[01] Autonomous Perception & ADAS  -> Spiking Neural Networks (SNN), sub-33ms real-time inference (30+ FPS), ISO 26262 ASIL-B compliance
-[02] Edge Acceleration & C++       -> Zero-copy pybind11 native bridges, TensorRT / ONNX Runtime, CUDA kernels on NVIDIA Jetson Orin Nano
-[03] Quantitative Alpha & Risk     -> Market/sector-residualized returns, continuous event-decay kernels, forward-filtered regime HMMs
-[04] Multimodal Edge Intelligence  -> Autonomous multispectral/SAR processing, real-time WGS84 GIS projection, offline telemetry resilience
-```
-
----
-
 ### Machined Stack
 
 #### Languages & Compute
@@ -43,6 +25,17 @@
 ![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-0B0E14?style=flat-square&logo=onnx&logoColor=0077FF)
 ![LightGBM](https://img.shields.io/badge/LightGBM-0B0E14?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0B0E14?style=flat-square&logo=docker&logoColor=0077FF)
+
+---
+
+### Core Disciplines & Telemetry
+
+```
+[01] Autonomous Perception & ADAS  -> Spiking Neural Networks (SNN), sub-33ms real-time inference (30+ FPS), ISO 26262 ASIL-B compliance
+[02] Edge Acceleration & C++       -> Zero-copy pybind11 native bridges, TensorRT / ONNX Runtime, CUDA kernels on NVIDIA Jetson Orin Nano
+[03] Quantitative Alpha & Risk     -> Market/sector-residualized returns, continuous event-decay kernels, forward-filtered regime HMMs
+[04] Multimodal Edge Intelligence  -> Autonomous multispectral/SAR processing, real-time WGS84 GIS projection, offline telemetry resilience
+```
 
 ---
 

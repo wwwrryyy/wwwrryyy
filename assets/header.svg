@@ -1,29 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="100%" height="150" fill="none">
   <defs>
     <style>
-      .header-name { fill: #0969DA; }
-      .header-tag { fill: #57604A; }
-      .header-sub { fill: #0969DA; }
-      .accent-line { stroke: #0969DA; stroke-opacity: 0.35; }
-      @media (prefers-color-scheme: dark) {
-        .header-name { fill: url(#nameGrad); }
-        .header-tag { fill: #8B949E; }
-        .header-sub { fill: #58A6FF; }
-        .accent-line { stroke: url(#accentLine); stroke-opacity: 1; }
-      }
+      .header-name { fill: #FFFFFF; }
+      .header-tag { fill: #FFFFFF; }
+      .header-sub { fill: #FFFFFF; }
+      .accent-line { stroke: #FFFFFF; stroke-opacity: 0.3; }
     </style>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E6EDF3" />
-      <stop offset="50%" stop-color="#FFFFFF" />
-      <stop offset="100%" stop-color="#58A6FF" />
-    </linearGradient>
-    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0" />
-      <stop offset="30%" stop-color="#58A6FF" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#79C0FF" stop-opacity="1" />
-      <stop offset="70%" stop-color="#58A6FF" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#1F6FEB" stop-opacity="0" />
-    </linearGradient>
   </defs>
   <!-- Name -->
   <g class="header-name">
