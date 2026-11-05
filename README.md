@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="SHAWN SHAIBU CHERIAN • Edge AI & Autonomous Perception" width="100%" />
+  <img src="./assets/header.svg" alt="SHAWN • Edge AI & Autonomous Perception" width="100%" />
 
   <p align="center">
     <a href="https://github.com/wwwrryyy"><img src="https://img.shields.io/badge/GitHub-@wwwrryyy-0055A5?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
